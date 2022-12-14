@@ -196,7 +196,7 @@ justify-content: center;
   align-items: center;
   flex-direction: column;
   position: relative;
-  overflow: hidden
+  overflow: hidden;
 }
 .kaufman__title_theme_dark{
   margin: 90px 0 0;
@@ -232,9 +232,6 @@ justify-content: center;
 }
 .table__heading{
   margin: 0;
-}
-.table_text{
-  margin-top: 20px;
 }
 .kaufman__triangle{
   display: block;

@@ -2,8 +2,7 @@
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content:baseline;
-  gap: 60px 100px;
+  gap: 60px;
   flex-wrap: wrap;
-  width: 80%;
+  width: 920px;
 }
